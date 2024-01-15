@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Status
-![eduardoRduraes GitHub stats](https://github-readme-stats.vercel.app/api?username=RenantDev&show_icons=true&theme=dark)
+![RenantDev GitHub stats](https://github-readme-stats.vercel.app/api?username=RenantDev&show_icons=true&theme=dark)
 
 <!--
 **RenantDev/RenantDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
