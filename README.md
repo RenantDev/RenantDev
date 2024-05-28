@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-### Status
-![RenantDev GitHub stats](https://github-readme-stats.vercel.app/api?username=RenantDev&show_icons=true&theme=dark)
-
 - 🔭 I’m currently working on a payment gateway integration project for Open-WebUI.
 - 🌱 I’m currently learning the latest updates and features in Laravel 11.
 - 👯 I’m looking to collaborate on innovative web development projects that leverage PHP and Laravel.
 - 🤔 I’m looking for help with advanced payment processing techniques using Stripe.
 - 💬 Ask me about PHP development, Laravel best practices, and API integration strategies.
+
+### Status
+![RenantDev GitHub stats](https://github-readme-stats.vercel.app/api?username=RenantDev&show_icons=true&theme=dark)
+
 
 <!--
 **RenantDev/RenantDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
