@@ -9,6 +9,8 @@
 ### Status
 ![RenantDev GitHub stats](https://github-readme-stats.vercel.app/api?username=RenantDev&show_icons=true&theme=dark)
 
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://br.linkedin.com/in/renant?trk=profile-badge)
 
 <!--
 **RenantDev/RenantDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
