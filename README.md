@@ -65,5 +65,3 @@ O que mais gosto de fazer: modernizar sistemas legados, integrar APIs e transfor
   <a href="https://github.com/RenantDev?tab=repositories"><img src="https://img.shields.io/github/stars/RenantDev?style=for-the-badge&logo=github&label=Stars&color=E3B341" alt="Stars"></a>
   <a href="https://github.com/RenantDev?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRenantDev&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20repos&color=2496ED" alt="Public repos"></a>
 </p>
-
-<img src="https://raw.githubusercontent.com/RenantDev/RenantDev/main/metrics.svg" alt="GitHub metrics">
