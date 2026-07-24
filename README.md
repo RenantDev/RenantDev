@@ -58,21 +58,6 @@ O que mais gosto de fazer: modernizar sistemas legados, integrar APIs e transfor
 
 ---
 
-## Projetos em destaque · Featured projects
-
-| Projeto | O que faz | Stack |
-| --- | --- | --- |
-| [tools-of-chaos](https://github.com/RenantDev/tools-of-chaos) | Interface para gestão de repositórios Git que gera mensagens de commit com apoio de IA e automatiza tarefas do fluxo de trabalho. | Python, IA |
-| [insights-ai](https://github.com/RenantDev/insights-ai) | Captura áudio de conversas, processa localmente com modelos Ollama e dispara alertas quando surge um insight relevante, sem mandar nada para a nuvem. | Python, Ollama |
-| [pathfinder-translate](https://github.com/RenantDev/pathfinder-translate) | Ferramenta de tradução para Pathfinder, o projeto com mais estrelas do meu perfil. | Python |
-| [firefall-server-emulator](https://github.com/RenantDev/firefall-server-emulator) | Emulador de servidor para o MMO Firefall, com protocolo Matrix sobre UDP e ambiente containerizado. | Rust, Axum, Docker |
-| [n8n_ads](https://github.com/RenantDev/n8n_ads) | Ambiente local que integra n8n com a evolution-api, feito como base de estudos para uma turma de Análise e Desenvolvimento de Sistemas. | Shell, Docker, n8n |
-
-> A maior parte do meu trabalho com Laravel e Vue.js está em sistemas privados de clientes, então não aparece aqui.
-> Most of my Laravel and Vue.js work lives in private client systems, so it is not visible here.
-
----
-
 ## GitHub
 
 <p>
