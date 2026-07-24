@@ -61,6 +61,9 @@ O que mais gosto de fazer: modernizar sistemas legados, integrar APIs e transfor
 ## GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RenantDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenantDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
+  <a href="https://github.com/RenantDev?tab=followers"><img src="https://img.shields.io/github/followers/RenantDev?style=for-the-badge&logo=github&label=Followers&color=0A66C2" alt="Followers"></a>
+  <a href="https://github.com/RenantDev?tab=repositories"><img src="https://img.shields.io/github/stars/RenantDev?style=for-the-badge&logo=github&label=Stars&color=E3B341" alt="Stars"></a>
+  <a href="https://github.com/RenantDev?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRenantDev&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20repos&color=2496ED" alt="Public repos"></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/RenantDev/RenantDev/main/metrics.svg" alt="GitHub metrics">
