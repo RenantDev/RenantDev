@@ -1,11 +1,12 @@
 <h1 align="center">Renant Bernabé</h1>
 
 <p align="center">
-  <b>Senior Software Developer &amp; Tech Lead</b><br>
+  <b>Founder of <a href="https://chaoscode.ai">chaoscode.ai</a> · Senior Software Developer</b><br>
   PHP · Laravel · Vue.js · TypeScript · Python · AI (LLMs &amp; Agents)
 </p>
 
 <p align="center">
+  <a href="https://chaoscode.ai"><img src="https://img.shields.io/badge/chaoscode.ai-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="chaoscode.ai"></a>
   <a href="https://www.linkedin.com/in/renant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:contato@renant.com.br"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
   <a href="https://twitch.tv/mutartv"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
@@ -15,7 +16,7 @@
 
 ## About
 
-Senior developer with 10+ years building web systems, mostly **PHP/Laravel** on the back end and **Vue.js** on the front end. I currently work as a **Tech Lead**, leading AI projects with LLMs and autonomous agents, and bringing AI into the development workflow itself.
+Founder of **[chaoscode.ai](https://chaoscode.ai)** and senior developer with 10+ years building web systems, mostly **PHP/Laravel** on the back end and **Vue.js** on the front end. At chaoscode.ai I build AI products with LLMs and autonomous agents, bringing AI into the development workflow itself.
 
 What I enjoy most: modernizing legacy codebases, integrating APIs and turning repetitive manual work into automation.
 
@@ -23,11 +24,11 @@ What I enjoy most: modernizing legacy codebases, integrating APIs and turning re
 - Going deeper into applied AI: agent orchestration, local models and RAG
 - Ask me about **PHP, Laravel, Vue.js, REST APIs, MySQL and Docker**
 - I stream live coding sessions at [twitch.tv/mutartv](https://twitch.tv/mutartv)
-- Open to remote work. Reach me on [LinkedIn](https://www.linkedin.com/in/renant)
+- Reach me on [LinkedIn](https://www.linkedin.com/in/renant)
 
 ## Sobre
 
-Desenvolvedor sênior com mais de 10 anos construindo sistemas web, principalmente com **PHP/Laravel** no back end e **Vue.js** no front end. Atuo como **Líder Técnico**, conduzindo projetos de IA com LLMs e agentes autônomos, e levando IA para dentro do próprio fluxo de desenvolvimento.
+Fundador da **[chaoscode.ai](https://chaoscode.ai)** e desenvolvedor sênior com mais de 10 anos construindo sistemas web, principalmente com **PHP/Laravel** no back end e **Vue.js** no front end. Na chaoscode.ai construo produtos de IA com LLMs e agentes autônomos, levando IA para dentro do próprio fluxo de desenvolvimento.
 
 O que mais gosto de fazer: modernizar sistemas legados, integrar APIs e transformar trabalho manual repetitivo em automação.
 
@@ -35,7 +36,7 @@ O que mais gosto de fazer: modernizar sistemas legados, integrar APIs e transfor
 - Aprofundando em IA aplicada: orquestração de agentes, modelos locais e RAG
 - Pode me perguntar sobre **PHP, Laravel, Vue.js, APIs REST, MySQL e Docker**
 - Faço lives de desenvolvimento na [twitch.tv/mutartv](https://twitch.tv/mutartv)
-- Aberto a trabalho remoto. Fale comigo no [LinkedIn](https://www.linkedin.com/in/renant)
+- Fale comigo no [LinkedIn](https://www.linkedin.com/in/renant)
 
 ---
 
