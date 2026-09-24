@@ -58,6 +58,27 @@ O que mais gosto de fazer: modernizar sistemas legados, integrar APIs e transfor
 
 ---
 
+## Projects / Projetos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RenantDev/exorcist"><img src="https://raw.githubusercontent.com/RenantDev/exorcist/main/docs/exorcist.gif" alt="Exorcist revealing the hidden text CHAOS CODE inside a Ghost Font dot field" width="100%"></a>
+      <h3><a href="https://github.com/RenantDev/exorcist">Exorcist</a> · Rust</h3>
+      <p>Windows overlay that reveals and reads <a href="https://ghostfont.org/">Ghost Font</a>, text hidden in motion that vision models cannot see. It compares screen frames, classifies pixels by motion direction, paints the letters in real time and runs OCR on the result.</p>
+      <p><i>Overlay para Windows que revela e lê o Ghost Font, texto escondido em movimento que modelos de visão não enxergam. Compara frames da tela, classifica pixels pela direção do movimento, pinta as letras em tempo real e passa o resultado por OCR.</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RenantDev/pixelbench-pi"><img src="https://raw.githubusercontent.com/RenantDev/pixelbench-pi/main/docs/media/demo.gif" alt="pixelbench scene: a synthwave sunset over a sea with an island and a castaway" width="100%"></a>
+      <h3><a href="https://github.com/RenantDev/pixelbench-pi">pixelbench</a> · Python</h3>
+      <p>A pixel art FPS benchmark for the Raspberry Pi, with thermal and throttling telemetry built into the result. Renders an animated synthwave sunset and reports FPS, frame time, 1% low, die temperature and throttling state in one block.</p>
+      <p><i>Benchmark de FPS em pixel art para o Raspberry Pi, com telemetria térmica e de throttling no resultado. Renderiza um pôr do sol synthwave animado e reporta FPS, frame time, 1% low, temperatura do chip e estado de throttling num único bloco.</i></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## GitHub
 
 <p>
